@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Layouts</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_relative_layout">RelativeLayoutActivity</string>
+    <string name="title_activity_linear_layout">LinearLayoutActivity</string>
+    <string name="title_activity_constrant_layout">ConstrantLayoutActivity</string>
+</resources>
